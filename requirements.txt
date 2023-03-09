@@ -1,2 +1,2 @@
-sakkara==0.3.0
+sakkara==0.4.0
 jupyter==1.0.0
